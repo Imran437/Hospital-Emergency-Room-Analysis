@@ -115,8 +115,8 @@ Business Recommendations
 | Power Query   | Data cleaning and transformation             |
 | DAX           | Measures and calculated columns              |
 | Data Modeling | Date table and table relationships           |
-| CSV	        | Source dataset                               |
-| GitHub	    | Project documentation and portfolio          |
+| CSV	      | Source dataset                               |
+| GitHub	      | Project documentation and portfolio          |
 
 
 ---
