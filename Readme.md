@@ -71,52 +71,58 @@ The available patient admission records cover approximately **April 2023 to Octo
 | Patients CM | Patient-related measure available in the source dataset |
 
 
+---
 
---- 
 ## 🔄 Project Workflow
-Raw Hospital ER Dataset
-          ↓
-Import Data into Power BI
-          ↓
-Data Quality Check
-          ↓
-Power Query Transformation
-          ↓
-Standardize Gender Values
-          ↓
-Create Date Table
-          ↓
-Create Patient Admission Date
-          ↓
-Create Data Model Relationship
-          ↓
-Create Calculated Columns
-          ↓
-Create DAX Measures
-          ↓
-Sort Month, Day & Age Group
-          ↓
-Build Interactive Dashboard
-          ↓
-Monthly Analysis
-          ↓
-Consolidated Analysis
-          ↓
-Patient-Level Details
-          ↓
-Key Insights
-          ↓
-Business Recommendations
 
+```text
+Raw Hospital ER Dataset
+        ↓
+Import Data into Power BI
+        ↓
+Data Quality Check
+        ↓
+Power Query Transformation
+        ↓
+Standardize Gender Values
+        ↓
+Create Date Table
+        ↓
+Create Patient Admission Date
+        ↓
+Create Data Model Relationship
+        ↓
+Create Calculated Columns
+        ↓
+Create DAX Measures
+        ↓
+Sort Month, Day & Age Group
+        ↓
+Build Interactive Dashboard
+        ↓
+Monthly Analysis
+        ↓
+Consolidated Analysis
+        ↓
+Patient-Level Details
+        ↓
+Key Insights
+        ↓
+Business Recommendations
+```
+
+---
 
 # 🛠️ Tools & Technologies
-| Tool          | Purpose                                      |
-| Power BI      | Dashboard development and data visualization |
-| Power Query   | Data cleaning and transformation             |
-| DAX           | Measures and calculated columns              |
-| Data Modeling | Date table and table relationships           |
-| CSV	      | Source dataset                               |
-| GitHub	      | Project documentation and portfolio          |
+
+| Tool / Technology | Purpose |
+|---|---|
+| Power BI | Dashboard development and data visualization |
+| Power Query | Data cleaning and transformation |
+| DAX | Measures and calculated columns |
+| Data Modeling | Date table and table relationships |
+| Excel / CSV | Source dataset |
+| GitHub | Project documentation and portfolio |
 
 
 ---
