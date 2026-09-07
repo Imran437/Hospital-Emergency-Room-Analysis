@@ -272,6 +272,7 @@ The dashboard shows approximately:
 
 The overall admission distribution is:
 | Admission Status | Patients |	Percentage
+| --- | --- | --- |
 | Admitted	       | 4,612    |	50%
 | Not Admitted	   | 4,604	  | 50%
 
