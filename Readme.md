@@ -345,7 +345,7 @@ The Key Takeaways page summarizes the major findings from the analysis.
 - The almost equal admission split indicates that the emergency department manages a substantial volume of both admitted and non-admitted patients.
 2. Waiting Time & Patient Experience
 - The overall average patient waiting time was approximately 35.3 minutes.
-- 59.32% of patients were seen within the 10-minute target, while 40.68% exceeded the target.
+- 40.68% of patients were seen within the 10-minute target, while 59.32% exceeded the target.
 - The average patient satisfaction score was approximately 4.9 out of 10.
 - The combination of waiting-time performance and moderate satisfaction indicates an opportunity to improve patient flow and overall patient experience.
 3. Department Referrals
