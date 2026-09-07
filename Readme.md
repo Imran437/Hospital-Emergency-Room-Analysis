@@ -358,9 +358,9 @@ The Key Takeaways page summarizes the major findings from the analysis.
 
 The busiest days were:
 
-- Monday — 1,377 patients
-- Saturday — 1,322 patients
-- Tuesday — 1,318 patients
+- Saturday — 1,377 patients
+- Thursday — 1,332 patients
+- Sunday — 1,318 patients
 
 The hourly analysis also highlights periods of higher patient activity, particularly around:
 
